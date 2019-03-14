@@ -21,6 +21,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.19",
     "mongose": "0.0.2-security",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
@@ -30,4 +31,3 @@
     "nodemon": "^1.18.10"
   }
 }
-
